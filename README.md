@@ -1,2 +1,3 @@
 # Heart-Disease-Prediction-ML
-Heart-Disease-Prediction-ML Assignment
+ML assignment for heart disease prediction
+
